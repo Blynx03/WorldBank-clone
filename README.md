@@ -22,7 +22,7 @@ The primary purpose of this project is to showcase the developer's web developme
 
 - **Static Content:** The project contains static content and images that may differ from the actual World Bank website. The focus is on layout and structure accuracy.
 
-![Alt text](footer)
+![Alt text](footer.png)
 
 ## Technologies Used
 
